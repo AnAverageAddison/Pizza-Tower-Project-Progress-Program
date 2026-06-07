@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"Object1",
-  "eventList":[],
+  "%Name":"obj_buttonbase",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object1",
+  "name":"obj_buttonbase",
   "overriddenProperties":[],
   "parent":{
-    "name":"Pizza Tower Project Progress Program",
-    "path":"Pizza Tower Project Progress Program.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
