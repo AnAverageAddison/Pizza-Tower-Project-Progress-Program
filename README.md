@@ -3,4 +3,4 @@ The Pizza Tower Project Progress Program, or the PT3P, is an application connect
 
 How this works is that the program connects to a server, reads the information, does some math, and displays it for you to see! It also comes with... The most recent teaser for each project. A way to switch between indivdual projects. Cool flair! A disclaimer. Nothing more, yet. I'm open to suggestion!
 
-I have no images currently, but I'll get one sooner or later.
+I have no images currently, because it's cancelled. I just don't think it's possible. Anyone can work on it.
